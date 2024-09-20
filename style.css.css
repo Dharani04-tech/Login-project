@@ -1,0 +1,66 @@
+body{
+    background-image: url(Nature.jpg);
+}
+.start{
+    height: 10cm;
+    width: 13cm;
+    background-color:rgba(255, 255, 255, 0.3);
+   margin-top: 10%;
+   margin-left: 15cm;
+   border-radius: 1cm;
+   
+    
+
+}
+.log{
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+.user{
+    height: 1cm;
+    width: 8cm;
+    background-color: rgba(255, 255, 255, 0.296);
+    border-radius: 1cm;
+    margin-left: 2.5cm;
+    color: white;
+   
+   
+}
+.pass{
+    height: 1cm;
+    width: 8cm;
+    background-color: rgba(255, 255, 255, 0.234);
+    border-radius: 1cm;
+    margin-left: 2.5cm;
+    margin-top: 1cm;
+   
+
+}
+/* .remem{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+} */
+.forget{
+    color: white;
+}
+.lo{
+    height: 1cm;
+    width: 8cm;
+    background-color: white;
+    border-radius: 1cm;
+    font-size:12px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 2.5cm;
+    padding-top:0.4px;
+    justify-content: center;
+}
+.an{
+    color:green;
+    text-align: center;
+    font-weight: bold;
+}
